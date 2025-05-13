@@ -4,4 +4,4 @@ I am a 22-year-old student of Electronics and Telecommunications. I have experie
 
 ## Below are some examples of my previous projects.
 
-![Demo](gif.gif)
+![Demo](https://github.com/robertmichalak17/robertmichalak17/blob/b124f27523375899c9751a0987a93684f2339494/gif.gif)
